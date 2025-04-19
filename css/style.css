@@ -1,4 +1,4 @@
-@import url(/css/reset.css);
+@import url(./reset.css);
 
 header .carousel-part{
     .carousel-item:nth-child(1){
