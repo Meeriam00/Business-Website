@@ -16,12 +16,7 @@ header .carousel-part{
             width: 10%;
             height: auto;
         }
-       ul{
-        list-style-type: none;
-        li{
-            list-style-type: none;
-        }
-       }
+     
         ul li a{
             color: white;
             font-size: 17px;
